@@ -6,11 +6,11 @@ The project focuses on building a text classification model using machine learni
 The project aims to build a text classification model that can accurately predict the categories of text data based on its content.
 
 **Project Structure**
-train.csv: Training data file.
-trainLabels.csv: Training labels file.
-test.csv: Test data file.
-submission.csv: Final submission file.
-script.py: Main script containing the code for data preprocessing, model building, and prediction.
+`train.csv`: Training data file.
+`trainLabels.csv`: Training labels file.
+`test.csv`: Test data file.
+`submission.csv`: Final output file containing the model predictions on the test data.
+`script.py`: Main script containing the code for data preprocessing, model building, and prediction.
 README.md: Documentation file.
 
 **Data Cleaning and Preprocessing**
